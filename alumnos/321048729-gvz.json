@@ -6,7 +6,7 @@
   "color": "#DDCA3D",
   "misiones": {
     "node": true,
-    "nextTailwind": false,
+    "nextTailwind": true,
     "v0": false,
     "opencode": false,
     "supabase": false
