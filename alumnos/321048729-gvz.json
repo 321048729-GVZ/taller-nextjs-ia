@@ -1,0 +1,15 @@
+{
+  "usuario": "321048729-gvz",
+  "nombre": "Alfredo Zenif González Vargas",
+  "frase": "No lo intentes, hazlo!!",
+  "emoji": "🐙",
+  "color": "#DDCA3D",
+  "misiones": {
+    "node": true,
+    "nextTailwind": false,
+    "v0": false,
+    "opencode": false,
+    "supabase": false
+  },
+  "promptFavorito": ""
+}
