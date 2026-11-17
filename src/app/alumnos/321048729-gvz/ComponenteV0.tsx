@@ -13,7 +13,7 @@ const milestones = [
   },
   {
     date: "2024 · El comienzo",
-    title: "Inicio de carrera",
+    title: "Inicio de carrera en la FESC",
     description: "Comienzo de mi formación profesional.",
   },
   {

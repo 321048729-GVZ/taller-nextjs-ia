@@ -8,8 +8,8 @@
     "node": true,
     "nextTailwind": true,
     "v0": true,
-    "opencode": false,
+    "opencode": true,
     "supabase": false
   },
-  "promptFavorito": ""
+  "promptFavorito": "Qué se ha hecho y qué falta?"
 }
